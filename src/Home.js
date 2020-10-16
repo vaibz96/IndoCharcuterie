@@ -27,7 +27,7 @@ function Home() {
             <div className="home__row">
                 <Product 
                     id = {243527}
-                    description = "Gulab jamun is a milk-solid-based sweet from the Indian subcontinent, and a type of mithai, popular in India, Nepal, Pakistan, the Maldives, and Bangladesh, as well as Myanmar."
+                    description = "Gulab jamun is a milk-solid-based sweet from the Indian subcontinent, and a type of mithai, popular in South Asia."
                     title = "Gulab Jamun"
                     price = {11.99}
                     image = "https://1.bp.blogspot.com/-udpj6gSzjG4/UyEjpLS-6VI/AAAAAAAAf1E/3OIFFAPaX8s/s1600/gj4.jpg"
@@ -53,7 +53,7 @@ function Home() {
             <div className="home__row">
                 <Product 
                     id = {356281}
-                    description = "You can enjoy this Aamazing, Head Chef Ccombo ddesigned onppy for customers who love eating Home Made Indian Delicacies"
+                    description = "You can enjoy this Aamazing, Head Chef Combo designed only for customers who love eating Home Made Indian Delicacies"
                     title = "Combo Package : 1 Entrée, 3 Sides, 1 Sweet, 1 Refresher at 18.99$ excluding tax*"
                     price = {18.99}
                     image = "https://media-cdn.tripadvisor.com/media/photo-s/16/62/2e/bb/punjabi-special-veg-thali.jpg"
