@@ -14,7 +14,7 @@ function Login() {
         // Do the login logic here
         auth
         .signInWithEmailAndPassword(email,password)
-        .then(auth => {
+        .then((auth) => {
             // logged In
             history.push("/");
         })
@@ -26,7 +26,7 @@ function Login() {
         // Do the create logic here
         auth
         .createUserWithEmailAndPassword(email, password)
-        .then(auth => {
+        .then((auth) => {
             // user created and Logged in
             history.push("/")
         })
@@ -54,4 +54,4 @@ function Login() {
     )
 }
 
-export default Login
+export default Login;
